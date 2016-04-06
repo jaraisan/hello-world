@@ -1,3 +1,4 @@
 # hello-world
 harjoitus
-Taaspahan tulostin lisää tekstiä
+Taaspahan tulostin lisää rivejä
+Arvaa onko hauskaa.
